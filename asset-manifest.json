@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dgayet/dgayet.github.io/static/css/main.d09633bd.css",
+    "main.js": "/dgayet/dgayet.github.io/static/js/main.3f9394b1.js",
+    "index.html": "/dgayet/dgayet.github.io/index.html",
+    "main.d09633bd.css.map": "/dgayet/dgayet.github.io/static/css/main.d09633bd.css.map",
+    "main.3f9394b1.js.map": "/dgayet/dgayet.github.io/static/js/main.3f9394b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09633bd.css",
+    "static/js/main.3f9394b1.js"
+  ]
+}
